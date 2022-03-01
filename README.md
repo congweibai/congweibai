@@ -4,3 +4,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=congweibai&langs_count=3&hide_title=true&hide_border=true" />
 </a>
+
+![snake gif](https://github.com/congweibai/congweibai/blob/output/github-contribution-grid-snake.gif)
